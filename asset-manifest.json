@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/socialapp-gh-pages/index.html/static/css/main.8ac6fdfe.chunk.css",
-    "main.js": "/socialapp-gh-pages/index.html/static/js/main.f5898aa1.chunk.js",
-    "main.js.map": "/socialapp-gh-pages/index.html/static/js/main.f5898aa1.chunk.js.map",
-    "runtime-main.js": "/socialapp-gh-pages/index.html/static/js/runtime-main.c7dcad9f.js",
-    "runtime-main.js.map": "/socialapp-gh-pages/index.html/static/js/runtime-main.c7dcad9f.js.map",
-    "static/css/2.c2bc211b.chunk.css": "/socialapp-gh-pages/index.html/static/css/2.c2bc211b.chunk.css",
-    "static/js/2.38b17a2f.chunk.js": "/socialapp-gh-pages/index.html/static/js/2.38b17a2f.chunk.js",
-    "static/js/2.38b17a2f.chunk.js.map": "/socialapp-gh-pages/index.html/static/js/2.38b17a2f.chunk.js.map",
-    "index.html": "/socialapp-gh-pages/index.html/index.html",
-    "precache-manifest.8d7d5384414252e400a3182e98c27e87.js": "/socialapp-gh-pages/index.html/precache-manifest.8d7d5384414252e400a3182e98c27e87.js",
-    "service-worker.js": "/socialapp-gh-pages/index.html/service-worker.js",
-    "static/css/2.c2bc211b.chunk.css.map": "/socialapp-gh-pages/index.html/static/css/2.c2bc211b.chunk.css.map",
-    "static/css/main.8ac6fdfe.chunk.css.map": "/socialapp-gh-pages/index.html/static/css/main.8ac6fdfe.chunk.css.map",
-    "static/js/2.38b17a2f.chunk.js.LICENSE.txt": "/socialapp-gh-pages/index.html/static/js/2.38b17a2f.chunk.js.LICENSE.txt"
+    "main.css": "/socialapp-gh-pages/static/css/main.8ac6fdfe.chunk.css",
+    "main.js": "/socialapp-gh-pages/static/js/main.43c97dac.chunk.js",
+    "main.js.map": "/socialapp-gh-pages/static/js/main.43c97dac.chunk.js.map",
+    "runtime-main.js": "/socialapp-gh-pages/static/js/runtime-main.6dc00c5c.js",
+    "runtime-main.js.map": "/socialapp-gh-pages/static/js/runtime-main.6dc00c5c.js.map",
+    "static/css/2.c2bc211b.chunk.css": "/socialapp-gh-pages/static/css/2.c2bc211b.chunk.css",
+    "static/js/2.fc04c219.chunk.js": "/socialapp-gh-pages/static/js/2.fc04c219.chunk.js",
+    "static/js/2.fc04c219.chunk.js.map": "/socialapp-gh-pages/static/js/2.fc04c219.chunk.js.map",
+    "index.html": "/socialapp-gh-pages/index.html",
+    "precache-manifest.68e9284c6cffa706c847214ae147f0c8.js": "/socialapp-gh-pages/precache-manifest.68e9284c6cffa706c847214ae147f0c8.js",
+    "service-worker.js": "/socialapp-gh-pages/service-worker.js",
+    "static/css/2.c2bc211b.chunk.css.map": "/socialapp-gh-pages/static/css/2.c2bc211b.chunk.css.map",
+    "static/css/main.8ac6fdfe.chunk.css.map": "/socialapp-gh-pages/static/css/main.8ac6fdfe.chunk.css.map",
+    "static/js/2.fc04c219.chunk.js.LICENSE.txt": "/socialapp-gh-pages/static/js/2.fc04c219.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7dcad9f.js",
+    "static/js/runtime-main.6dc00c5c.js",
     "static/css/2.c2bc211b.chunk.css",
-    "static/js/2.38b17a2f.chunk.js",
+    "static/js/2.fc04c219.chunk.js",
     "static/css/main.8ac6fdfe.chunk.css",
-    "static/js/main.f5898aa1.chunk.js"
+    "static/js/main.43c97dac.chunk.js"
   ]
 }
